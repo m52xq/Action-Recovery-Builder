@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: Device Tree URL
         required: true
-        default: 'https://github.com/saadelasfur/orangefox_device_samsung_m52xq.git'
+        default: 'https://github.com/m52xq/orangefox_device_samsung_m52xq'
       DEVICE_TREE_BRANCH:
         description: Device Tree Branch
         required: true
